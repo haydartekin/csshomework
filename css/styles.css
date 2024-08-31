@@ -55,26 +55,11 @@ h1 {
     background-color: #2E2F42;
 }
 
-.about-us {
-    list-style: none;
-    font-size 20px;
-    font-weight 500px;
-}
-
-.about-us p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 2%;
-}
-
 h2 {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 2%;
-
 }
-
 p {
     font-size: 16px;
     font-style: unset;
@@ -88,44 +73,6 @@ h3 {
     font-size: 36px;
     line-height: 1.1;
     text-align: center;
-}
-
-.our-team {
-    font-size: 16px;
-    list-style-type: none;
-    font-weight: 500;
-    letter-spacing: 2%;
-    line-height: 1.2;
-}
-
-.our-team p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 2%;
-}
-
-.our-portfolio li {
-    text-decoration: none;
-    list-style: none;
-    font-size: 20px;
-    line-height: 1.2;
-    font-style: normal;
-    letter-spacing: 2%;
-}
-
-.our-portfolio a {
-    font-size: 20px;
-    font-weight: 500px;
-    line-height: 1.2;
-    letter-spacing: 2%;
-}
-
-.our-portfolio p {
-    font-size: 16px;
-    font-weight: 400px;
-    line-height: 1.5;
-    letter-spacing: 2%;
 }
 
 .button {
@@ -157,12 +104,4 @@ button:focus {
     font: weight 700px;
     font-style: normal;
     text-decoration: none;
-}
-
-.footer p {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 2%;
-    font-weight: 400;
 }
