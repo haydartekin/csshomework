@@ -4,6 +4,7 @@ page-logo-title{
     font-weight: ;
 }
 nav{
+    size: 72px;
     background-color: #E7E9FC;
     font-weight:
     
@@ -29,23 +30,53 @@ address{
 body{
     font-family: "Roboto", sans-serif;
     background-color: #F4F4FD;
-    font-weight: ;
+    line-height: 1;
+    font-weight: 700;
 
 }
 h1{
     size: 56px;
-    line-height: 107.14;
+    color: #FFFFFF;
     background-color: #2E2F42;
-    font-weight: ;
+    line-height: 3.5;
+    font-weight: 700;
+}
+h2{
+    size: 36px;
+    background-color: #2E2F42;
+    line-height: 2.25;
+    font-weight: 700;
 }
 h3{
     size: 20px;
-    font-weight: ;
+    line-height: 1.25;
+    font-weight: 500;
+    color: #2E2F42;
 }
 p {
     size: 16px;
-    font-weight: ;
+    line-height: 1;
+    font-weight: 400;
+    color: #434455;
 }
 button {
+   background-color: #4D5AE5;
+    color: #FFFFFF;
+    border: none;
+    padding: 15px 32px;
+            /* İç boşluk */
+    text-align: center;
+            /* Metin hizalaması */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+            /* Yazı boyutu */
+    margin: 4px 2px;
+            /* Dış boşluk */
     cursor: pointer;
+    border-radius: 8px;
+            /* Yuvarlak köşeler */
+}
+buton:hover {
+    background-color: #404BBF;
 }
