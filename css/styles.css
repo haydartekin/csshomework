@@ -5,18 +5,18 @@
     font-style: normal;
 }
 
-.page-menu-list a {
+.page-menu-list.a {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     text-decoration: none;
 }
 
-.page-menu-list li {
+.page-menu-list.li {
     list-style-type: none;
 }
 
-a {
+.a {
     color: #2e2f42;
 }
 
