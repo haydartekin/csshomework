@@ -123,3 +123,20 @@ our-team.h3 {
     font-weight: 500;
 
 }
+our-portfolio.a{
+    cursor: pointer;
+}
+our-portfolio.p {
+    font-size: 16px;
+    color: #434455;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    font-weight: 400px;
+
+}
+our-portfolio.h3 {
+    font-size: 20px;
+    line-height: 1.1;
+    text-align: center;
+    font-weight: 500;
+}
